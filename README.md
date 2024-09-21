@@ -4,7 +4,7 @@
 
 ## Course description
 > [!IMPORTANT] 
-> Referenced from the **[Humber course outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=IXD%205106&view=1&year=2024)**:  
+> Referenced from the **[Humber course outline](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205110&view=1&year=2024)**:  
 > This course will introduce students to the roles and responsibilities of a Web Developer, through the following assignments:
 > - Monitor the time spent on work using a timesheet.
 > - Create a simple Web site using HTML and CSS.
